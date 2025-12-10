@@ -1,5 +1,5 @@
 import { GlobeAltIcon } from '@heroicons/react/24/outline';
-import { lusitana } from '@/app/fonts';
+import { lusitana } from '@/app/fonts';     // BENAR
 
 export default function AcmeLogo() {
   return (
