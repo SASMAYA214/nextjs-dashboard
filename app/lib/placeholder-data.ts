@@ -7,6 +7,13 @@ const users = [
     email: 'user@nextmail.com',
     password: '123456',
   },
+  {
+    id: 'b63b4cd9-aa72-4455-bcde-69af5993e50f',
+    name: 'sasmaya',
+    email: 'l200230214@ums.com',
+    // Menggunakan kode hash yang baru saja Anda berikan
+    password: '$2a$12$0Y/9E1Tj0tcJxc/cWbIv6ug1ocRvyhtD.ReKXSXojyqCTc3Iz5wjm',
+  },
 ];
 
 const customers = [
